@@ -2,16 +2,16 @@
 
 <h1 align="center">
   <a href="https://github.com/AnayoOleru/Funding-options-for-African-startups">
-    Funding. Options .For .African .Startups
+    Funding .Options .For .African .Startups :rocket:
   </a>
 </h1>
-<p align="center">Funding-options-for-African-startups :rocket: :fire:.</p>
+<p align="center">:rocket:Seed capital for expansion for African startups :rocket:</p>
 
 ---
 
 ## Please add organization
 
-**The only criteria for adding organization to this list is that organization is still running seed capital or funding for startups.**
+**The only criteria for adding organization to this list is that the organization is still running seed capital or funding for startups.**
 
 ### Format
 
