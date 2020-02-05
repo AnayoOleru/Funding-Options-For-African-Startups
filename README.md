@@ -1,4 +1,88 @@
-# Funding-options-for-Nigerian-startups
-Seed capital for expansion is becoming increasingly challenging for businesses to locate in Nigeria.  Understanding the critical importance of funding to Nigerian startups, in its characteristic manner, here are list of dug up up-till-date places where Nigerian startups can access funds for their businesses.
+#
 
-Please submit a PR if you'd like to add more! Or you can email me / send a DM and I will add it for you.
+<h1 align="center">
+  <a href="https://github.com/AnayoOleru/Funding-options-for-African-startups">
+    Funding. Options .For .African .Startups
+  </a>
+</h1>
+<p align="center">Funding-options-for-African-startups :rocket: :fire:.</p>
+
+---
+
+## Please add organization
+
+**The only criteria for adding organization to this list is that organization is still running seed capital or funding for startups.**
+
+### Format
+
+Please add organization alphabetical by Organization name.
+
+```md
+#### Organization Name
+
+- [organization acronym or name in lowercase](website)
+```
+
+
+
+
+
+
+- [Countries](#countries)
+
+  - [Nigeria](#nigeria)
+
+
+
+
+
+## Countries
+
+
+
+
+### Nigeria
+
+#### Afremix Bank
+
+- [afremixbank](https://www.afreximbank.com/)
+
+#### Africa’s Young Entrepreneurs (AYEEN Financial Grants)
+
+- [AYEEN](https://ayeonline.org/)
+
+#### Bank Of Industry (BOI Funds)
+
+- [BOI](https://www.boi.ng/)
+
+#### Crowd funds
+
+- [crowdfunds](https://www.crowdfunding.com/)
+
+#### Diamond Bank BET Programme
+
+- [diamondbankbetprogramme](http://diamondbankbet6.com/)
+
+#### GroFin Fund
+
+- [grofinfund](http://www.grofin.com/)
+
+#### Lagos State Entrepreneurs Trust Fund (LSETF)
+
+- [LSETF](https://lsetf.ng/)
+
+#### Nigerian Economic Summit Group (NESG)
+
+- [NESG](https://www.nesgroup.org/)
+
+#### Nexim Bank
+
+- [neximbank](https://neximbank.com.ng/)
+
+#### Orange Corners
+
+- [orangecorners](https://www.orangecorners.com/nigeria/)
+
+#### Tony Elumelu Funds
+
+- [tonyelumelufunds](https://www.tonyelumelufoundation.org/)
