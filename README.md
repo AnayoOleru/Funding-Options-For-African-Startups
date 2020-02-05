@@ -5,7 +5,7 @@
     Funding .Options .For .African .Startups :rocket:
   </a>
 </h1>
-<p align="center">:rocket:Seed capital for expansion for African startups :rocket:</p>
+<p align="center">:rocket:Seed capital expansion for African startups :rocket:</p>
 
 ---
 
