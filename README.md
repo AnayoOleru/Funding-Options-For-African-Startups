@@ -20,7 +20,7 @@ Please add organization alphabetical by Organization name.
 ```md
 #### Organization Name
 
-- [organization acronym or name in lowercase](website)
+- [organization-acronym-or-name-in-lowercase](website)
 ```
 
 
