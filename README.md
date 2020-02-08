@@ -11,6 +11,8 @@
 
 ## Please add organization
 
+Active investors or organization from any African country is very welcome.
+
 **The only criteria for adding organization to this list is that the organization is still running seed capital or funding for startups.**
 
 ### Format
