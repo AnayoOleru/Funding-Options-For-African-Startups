@@ -31,6 +31,7 @@ Please add organization alphabetical by Organization name.
 - [Countries](#countries)
 
   - [Nigeria](#nigeria)
+  - [Kenya](#kenya)
 
 
 
@@ -86,3 +87,48 @@ Please add organization alphabetical by Organization name.
 #### Tony Elumelu Funds
 
 - [tonyelumelufunds](https://www.tonyelumelufoundation.org/)
+
+
+### Kenya
+
+#### African Banking Corporation
+
+- [africanbankingcorporation](http://www.abcthebank.com/)
+
+#### Development Bank of Kenya (DBK)
+
+- [DBK](https://www.devbank.com/)
+
+#### Faulu DTB Bank
+
+- [fauludtbbank](https://www.faulukenya.com/)
+
+#### Freyr International Limited
+
+- [freyrinternationallimited](https://www.freyrsolutions.com/)
+
+#### Industrial Development Bank (IDB)
+
+- [IDB](https://www.iadb.org/en/about-us/industrial-development%2C6212.html)
+
+#### Kenya Women Microfinance Bank Limited (KWFT)
+
+- [KWFT](https://www.kwftbank.com/)
+
+#### M-shwari from Safaricom
+
+- [mshwarifromsafaricom](https://www.safaricom.co.ke/personal/m-pesa/do-more-with-m-pesa/loans-and-savings)
+
+#### Uwezo Youth Fund
+
+- [uwezoyouthfund](http://www.uwezo.go.ke/)
+
+#### Vision fund Kenya
+
+- [visionfundkenya](https://visionfundkenya.co.ke/)
+
+#### World Bank Kenya
+
+- [worldbankkenya](https://www.worldbank.org/en/country/kenya)
+
+
