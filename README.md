@@ -2,10 +2,10 @@
 
 <h1 align="center">
   <a href="https://github.com/AnayoOleru/Funding-options-for-African-startups">
-    Funding .Options .For .African .Startups :rocket:
+    :money_with_wings: Funding .Options .For .African .Startups :rocket:
   </a>
 </h1>
-<p align="center">:rocket:Seed capital for expansion for African startups :rocket:</p>
+<p align="center">:money_with_wings:Seed capital expansion for African startups :rocket:</p>
 
 ---
 
