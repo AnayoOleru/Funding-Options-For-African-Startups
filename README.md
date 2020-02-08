@@ -30,8 +30,11 @@ Please add organization alphabetical by Organization name.
 
 - [Countries](#countries)
 
-  - [Nigeria](#nigeria)
+  - [Egypt](#egypt)
   - [Kenya](#kenya)
+  - [Nigeria](#nigeria)
+  - [Rwanda](#rwanda)
+  - [Uganda](#uganda)
 
 
 
@@ -39,8 +42,88 @@ Please add organization alphabetical by Organization name.
 
 ## Countries
 
+<!-- Egypt below-->
+
+### Egypt
+
+#### AUC Venture Lab
+
+- [aucventurelab](https://business.aucegypt.edu/centers/vlab)
+
+#### Cairo Angels
+
+- [cairoangels](http://cairoangels.com/)
+
+#### Endeavor Egypt
+
+- [endeavoregypt](http://endeavoreg.org/)
+
+#### Flat6Labs
+
+- [flat6labs](https://www.flat6labs.com/)
+
+#### Injaz Egypt
+
+- [injazegypt](http://injaz-egypt.org/)
+
+#### Nahdet El-Mahrousa
+
+- [nahdetelmahrousa](http://nahdetelmahrousa.org/our-events)
+
+#### Rise Up Egypt
+
+- [riseupegypt](https://riseup.co/)
+
+#### The Greek Campus
+
+- [thegreekcampus](https://thegreekcampus.com/)
+
+<!-- Kenya below -->
+
+### Kenya
+
+#### African Banking Corporation
+
+- [africanbankingcorporation](http://www.abcthebank.com/)
+
+#### Development Bank of Kenya (DBK)
+
+- [DBK](https://www.devbank.com/)
+
+#### Faulu DTB Bank
+
+- [fauludtbbank](https://www.faulukenya.com/)
+
+#### Freyr International Limited
+
+- [freyrinternationallimited](https://www.freyrsolutions.com/)
+
+#### Industrial Development Bank (IDB)
+
+- [IDB](https://www.iadb.org/en/about-us/industrial-development%2C6212.html)
+
+#### Kenya Women Microfinance Bank Limited (KWFT)
+
+- [KWFT](https://www.kwftbank.com/)
+
+#### M-shwari from Safaricom
+
+- [mshwarifromsafaricom](https://www.safaricom.co.ke/personal/m-pesa/do-more-with-m-pesa/loans-and-savings)
+
+#### Uwezo Youth Fund
+
+- [uwezoyouthfund](http://www.uwezo.go.ke/)
+
+#### Vision fund Kenya
+
+- [visionfundkenya](https://visionfundkenya.co.ke/)
+
+#### World Bank Kenya
+
+- [worldbankkenya](https://www.worldbank.org/en/country/kenya)
 
 
+<!-- Nigeria below -->
 
 ### Nigeria
 
@@ -89,46 +172,41 @@ Please add organization alphabetical by Organization name.
 - [tonyelumelufunds](https://www.tonyelumelufoundation.org/)
 
 
-### Kenya
+<!-- Rwanda below -->
 
-#### African Banking Corporation
+### Rwanda
 
-- [africanbankingcorporation](http://www.abcthebank.com/)
+#### M-Funding
 
-#### Development Bank of Kenya (DBK)
+- [M-Funding](https://m-funding.com/)
 
-- [DBK](https://www.devbank.com/)
+#### Norrsken Foundation
 
-#### Faulu DTB Bank
+- [norrskenfoundation](https://www.norrskenfoundation.org/)
 
-- [fauludtbbank](https://www.faulukenya.com/)
+#### Rwanda Angel Investors
 
-#### Freyr International Limited
+- [rwandaangelinvestors](https://angel.co/rwanda/investors)
 
-- [freyrinternationallimited](https://www.freyrsolutions.com/)
+#### Seedstars Kigali
 
-#### Industrial Development Bank (IDB)
+- [ugandaangelinvestors](https://www.seedstarsworld.com/event/seedstars-kigali/)
 
-- [IDB](https://www.iadb.org/en/about-us/industrial-development%2C6212.html)
+#### Startup Investors in Rwanda
 
-#### Kenya Women Microfinance Bank Limited (KWFT)
+- [startupinvestorsinrwanda](https://www.smergers.com/investors/startup-investors-in-rwanda/s0/c649/t0/m0/?cs=144#)
 
-- [KWFT](https://www.kwftbank.com/)
 
-#### M-shwari from Safaricom
 
-- [mshwarifromsafaricom](https://www.safaricom.co.ke/personal/m-pesa/do-more-with-m-pesa/loans-and-savings)
+<!-- Uganda below -->
 
-#### Uwezo Youth Fund
+### Uganda
 
-- [uwezoyouthfund](http://www.uwezo.go.ke/)
+#### Uganda Angel Investors
 
-#### Vision fund Kenya
+- [ugandaangelinvestors](https://angel.co/uganda/investors)
 
-- [visionfundkenya](https://visionfundkenya.co.ke/)
+#### United Nations Capital Development Fund (UNCDF)
 
-#### World Bank Kenya
-
-- [worldbankkenya](https://www.worldbank.org/en/country/kenya)
-
+- [UNCDF](https://www.uncdf.org/)
 
