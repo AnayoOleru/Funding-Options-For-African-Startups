@@ -33,6 +33,7 @@ Please add organization alphabetical by Organization name.
 - [Countries](#countries)
 
   - [Egypt](#egypt)
+  - [Ghana](#ghana)
   - [Kenya](#kenya)
   - [Nigeria](#nigeria)
   - [Rwanda](#rwanda)
@@ -79,6 +80,13 @@ Please add organization alphabetical by Organization name.
 #### The Greek Campus
 
 - [thegreekcampus](https://thegreekcampus.com/)
+
+<!-- Ghana below -->
+### Ghana
+
+#### Ghana Angel Investors
+
+- [ghanaangelinvestors](https://angel.co/ghana/investors)
 
 <!-- Kenya below -->
 
