@@ -32,6 +32,7 @@ Please add organization alphabetical by Organization name.
 
 - [Countries](#countries)
 
+  - [Côte-d’Ivoire](#côted’ivoire)
   - [Egypt](#egypt)
   - [Ghana](#ghana)
   - [Kenya](#kenya)
@@ -44,6 +45,15 @@ Please add organization alphabetical by Organization name.
 
 
 ## Countries
+
+<!-- Côte-d’Ivoire below -->
+### Côte-d’Ivoire 
+
+#### Deloitte
+
+- [deloitte](https://www2.deloitte.com/za/en/pages/deloitte-africa/articles/invest-in-cote-divoire.html#)
+
+
 
 <!-- Egypt below-->
 
