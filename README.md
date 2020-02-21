@@ -13,6 +13,8 @@
 
 Active investors or organization from any African country is very welcome.
 
+You can also contribute using the [Form](https://forms.gle/gotywsRirvdHXjSV6)
+
 **The only criteria for adding organization to this list is that the organization is still running seed capital or funding for startups.**
 
 ### Format
