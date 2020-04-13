@@ -1,4 +1,4 @@
-#
+[![HitCount](http://hits.dwyl.com/AnayoOleru/Funding-Options-For-African-Startups.svg)](http://hits.dwyl.com/AnayoOleru/Funding-Options-For-African-Startups)
 
 <h1 align="center">
   <a href="https://github.com/AnayoOleru/Funding-options-for-African-startups">
